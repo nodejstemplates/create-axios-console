@@ -1,0 +1,35 @@
+# create-axios-console
+
+A simple open-source template for quickly setting up a **TypeScript** Node.js console application with [Axios](https://github.com/axios/axios) for making HTTP requests.
+
+## Features
+
+- Minimal setup for a console-based Node.js app
+- Written in TypeScript for type safety and modern development
+- Integrated with Axios for easy HTTP requests
+- Ready for customization and extension
+
+## Getting Started
+
+1. **Create a new project using NPX:**
+    ```
+    npx create-axios-console my-app
+    cd my-app
+    ```
+
+2. **Install dependencies:**
+    ```
+    npm install
+    ```
+
+3. **Run the app (no build step required):**
+    ```
+    npm start
+    ```
+
+   > This uses TypeScript directly via `ts-node`.
+
+## Usage
+
+Edit `src/index.ts` to add your own logic and HTTP requests using Axios.
+
