@@ -2,6 +2,9 @@
 
 A simple open-source template for quickly setting up a **TypeScript** Node.js console application with [Axios](https://github.com/axios/axios) for making HTTP requests.
 
+**Template repository:** [https://github.com/nodejstemplates/create-axios-console](https://github.com/nodejstemplates/create-axios-console)  
+**Available on npm:** [https://www.npmjs.com/package/create-axios-console](https://www.npmjs.com/package/create-axios-console)
+
 ## Features
 
 - Minimal setup for a console-based Node.js app
@@ -32,4 +35,3 @@ A simple open-source template for quickly setting up a **TypeScript** Node.js co
 ## Usage
 
 Edit `src/index.ts` to add your own logic and HTTP requests using Axios.
-
