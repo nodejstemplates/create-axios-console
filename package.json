@@ -1,12 +1,12 @@
 {
   "name": "create-axios-console",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create Axios Console Application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["npx", "create", "app", "template", "axios"],
   "author": "",
   "license": "MIT",
   "dependencies": {
