@@ -1,6 +1,6 @@
 {
   "name": "create-axios-console",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Create Axios Console Application",
   "main": "index.js",
   "scripts": {

@@ -4,4 +4,4 @@
 npm test
 
 node scripts/bump-version.js
-git add package.json
+git add package.json package-lock.json
