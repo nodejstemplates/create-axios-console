@@ -1,7 +1,0 @@
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
-
-npm test
-
-node scripts/bump-version.js
-git add package.json package-lock.json

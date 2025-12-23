@@ -1,11 +1,10 @@
 {
   "name": "create-axios-console",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Create Axios Console Application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"no test specified\" && exit 0",
-    "prepare": "husky install"
+    "test": "echo \"no test specified\" && exit 0"
   },
   "keywords": [
     "npx",
@@ -17,10 +16,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.4.0"
   },
   "type": "module",
-  "devDependencies": {
-    "husky": "^8.0.0"
-  }
+  "devDependencies": {}
 }
